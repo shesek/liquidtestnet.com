@@ -134,3 +134,6 @@ venv3
 liquid.conf
 chain/*
 elements-*
+elements
+elements_testnet.conf
+elements/elements_testnet.conf
